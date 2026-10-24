@@ -1,0 +1,10 @@
+name: Feature proposal
+description: Describe a concrete user problem
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and acceptance example
+      description: Explain who needs this and what success would look like.
+    validations:
+      required: true
